@@ -1,4 +1,4 @@
-//DGHI - Ativ05 - Hotel
+//DGHI - Ativ04 - Hotel
 //Deborah Carvalho Saad
 //Geovanna Cristina Brenzinger
 //Henrique Abreu Hollanda da Rocha
@@ -344,3 +344,4 @@ void fLimpar() {
     char carac;
     while ((carac = getchar()) != '\n' && carac != EOF) {}
 }
+
